@@ -38,7 +38,7 @@ options(knitr.table.format = "html")
 <style>
 
 .main {
-font-family: "Comic Sans MS";
+   font-family: "Comic Sans MS";
 }
 
 body {
@@ -56,10 +56,11 @@ font-size: $if(main_textsize)$$main_textsize$$else$170px$endif$;
 text-align: left;
 }
 
+
 </style>
 
 
-```{r, include = FALSE}
+```{r}
 
 colorize <- function(x, color) {
   if (knitr::is_latex_output()) {
