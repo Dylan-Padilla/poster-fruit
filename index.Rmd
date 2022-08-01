@@ -31,14 +31,15 @@ knitr::opts_chunk$set(results = 'asis',
                       message = FALSE,
                       fig.align = 'center',
                       out.width = "100%")
-options(knitr.table.format = "html") 
+options(knitr.table.format = "html")
+
 ```
 
 
 <style>
 
 .main {
-   font-family: "Comic Sans MS";
+font-family: "Comic Sans MS";
 }
 
 body {
@@ -56,22 +57,7 @@ font-size: $if(main_textsize)$$main_textsize$$else$170px$endif$;
 text-align: left;
 }
 
-
 </style>
-
-
-```{r}
-
-colorize <- function(x, color) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{%s}{%s}", color, x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: %s;'>%s</span>", color,
-      x)
-  } else x
-}
-
-```
 
 <br>
 
