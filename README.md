@@ -1,6 +1,6 @@
 # poster-fruit
 
-# Before rendering the "index.Rmd" file in R, the following function should be called:
+## Before rendering the "index.Rmd" file in R, the following function should be called:
 
 
 colorize <- function(x, color) {
