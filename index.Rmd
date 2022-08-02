@@ -86,4 +86,4 @@ The main roles of students will include:
 
 <br>
 
-If you are interested in working with us, please feel free to contact us at dpadil10@asu.edu and ma@asu.edu.
+If you are interested in working with us, please feel free to reach out at dpadil10@asu.edu `r emo::ji("email")`
