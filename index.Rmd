@@ -72,7 +72,7 @@ We are offering the opportunity for outstanding students to get involved in rese
 
 <br>
 
-Our lab examines the coevolution of foraging behavior and the life history of fruit flies. Specifically, we analyze the frequencie of alleles with underlying effects on the foraging behavior of individuals evolving under different `r colorize("selective preasures", "orange")` in the laboratory, which enables one to make strong inferences concerning `r colorize("phenotypic and genetic", "orange")` responses to `r colorize("selection", "orange")`.
+Our lab examines the coevolution of foraging behavior and the life history of fruit flies. Specifically, we analyze the frequency of alleles with underlying effects on the foraging behavior of individuals evolving under different `r colorize("selective pressures", "orange")` in the laboratory, which enables one to make strong inferences concerning `r colorize("phenotypic and genetic", "orange")` responses to `r colorize("selection", "orange")`.
 
 <br>
 
